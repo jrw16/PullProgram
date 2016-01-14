@@ -1,3 +1,5 @@
+package core;
+
 import java.awt.Font;
 import javax.swing.JOptionPane;
 import javax.swing.plaf.FontUIResource;
